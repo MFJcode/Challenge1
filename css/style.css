@@ -1,10 +1,18 @@
 
 
 body {
-    background: lightseagreen;
+    
     margin: 0;
 }
 
 h1 {
-    color: red;
+    background: #281b2d;
+    color: #fff;    
+    text-align: center;
+    font-size: 72px;
+    margin-top: 0;
+    padding-top: 25px;
+    padding: 25px 0;
+
+    
 }
