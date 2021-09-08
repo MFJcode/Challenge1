@@ -25,5 +25,11 @@ Challenge 5 CSS
 
 - Styling the title of our page
 
+Challenge 6 CSS
+
+- Styling the subheadings
+
+
+
 
 
