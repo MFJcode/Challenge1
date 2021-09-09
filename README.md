@@ -37,6 +37,10 @@ Challenge 8 CSS and HTML
 
 - Containing the layout
 
+Challenge 9 CSS and HTML
+
+- Creating 2 columns
+
 
 
 
