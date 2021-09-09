@@ -33,6 +33,10 @@ Challenge 7 CSS and HTML
 
 - Adding extra style to the text
 
+Challenge 8 CSS and HTML
+
+- Containing the layout
+
 
 
 
