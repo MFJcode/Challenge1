@@ -29,6 +29,12 @@ Challenge 6 CSS
 
 - Styling the subheadings
 
+Challenge 7 CSS and HTML
+
+- Adding extra style to the text
+
+
+
 
 
 
