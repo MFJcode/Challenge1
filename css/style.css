@@ -12,6 +12,26 @@ h1 {
   padding: 25px 0;
 }
 
+ /* unvisited link */
+ a:link {
+  color: #111;
+}
+
+/* visited link */
+a:visited {
+  color: #111;
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+/* selected link */
+a:active {
+  color: blueviolet;
+}
+
 .subhead {
   background: #281b2d;
   color: #fcd801;
@@ -19,6 +39,7 @@ h1 {
   padding: 20px;
   border-bottom: solid 5px #00c54c;
   text-align: center;
+  margin: 10px 10px;
   
 }
 
@@ -45,6 +66,9 @@ h1 {
 
 .sidebar {
   width: 30%;
+  background-color: #9AE84F;
+  font-size: 19px;
+  
 }
 
 .col-right {
@@ -52,3 +76,9 @@ h1 {
     
     
 }
+
+.link {
+  margin-left: 20px;
+
+}
+

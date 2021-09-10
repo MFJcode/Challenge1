@@ -2,7 +2,7 @@
 
 Challenge 1 HTML
 
-- Create a black HTML file.
+- Create a blank HTML file.
 - Add all required elements so that we can start adding some content.
 
 Challenge 2 HTML
@@ -40,6 +40,10 @@ Challenge 8 CSS and HTML
 Challenge 9 CSS and HTML
 
 - Creating 2 columns
+
+Challenge 10 CSS and HTML
+
+- Styling our sidebar
 
 
 
